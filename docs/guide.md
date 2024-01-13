@@ -3,7 +3,7 @@ This guide is based on Minecraft version `1.20.1`.
 
 ## 1. Getting CinemaMod static files
 1. Create a folder on your desktop. (folder name can be anything.)
-2. Obtain the static files from either https://cinemamod-static.ewr1.vultrobjects.com/ or https://mcef-download.cinemamod.com/cinemamod-static/.  
+2. Get the static files from either https://cinemamod-static.ewr1.vultrobjects.com/ or https://mcef-download.cinemamod.com/cinemamod-static/.  
 You can also get them from my repository (https://github.com/ochadashiman2/CinemaMod-temporary/tree/v1.0.0).
     ```
     [File Structure]
