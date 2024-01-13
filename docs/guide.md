@@ -42,7 +42,7 @@ Access `https://{REPLACE TO YOUR GitHub ACCOUNT NAME}.github.io/{REPLACE TO YOUR
 ## 3. Build Server-side Jar
 **Java 17 must be installed** in the build environment.
 
-1. Download the repository corresponding to the Minecraft version from Github.  
+1. Download the official `CinemaMod` repository corresponding to the Minecraft version from Github.  
 - 1.20.1: https://github.com/CinemaMod/CinemaMod/tree/1.0.6-1.20.1  <br>
 ![](images/3-1.png)  
 
